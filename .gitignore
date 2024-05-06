@@ -3,3 +3,6 @@
 /target
 
 /.cargo/config.toml
+frontend/jgenesis-web/serve
+frontend/jgenesis-web/serve-webgl
+jgenesis-config.toml
